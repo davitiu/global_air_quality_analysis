@@ -1,4 +1,4 @@
-This Project analyzes air pollution datasets ("pm10", "pm25", "no", "no2", "nox", "co", "o3", and "so2") for multible global cities.
+This Project analyzes air pollution datasets ("pm10", "pm25", "no", "no2", "nox", "co", "o3", and "so2") for multiple global cities.
 It filters data by pollutant and date, and generates four plot per pollutant:
 
 1. Time Series (concentration vs hour)
