@@ -15,4 +15,4 @@ Tools: Python, Pandas, Matplotlib
 
 Sample plot:
 
-![image alt] {https://github.com/davitiu/global_air_quality_analysis/blob/4e8e135a02e3a3440e74e2c2823e26947df5f5c0/sample_plot.png}
+![image alt] (https://github.com/davitiu/global_air_quality_analysis/blob/4e8e135a02e3a3440e74e2c2823e26947df5f5c0/sample_plot.png)
